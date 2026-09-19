@@ -11,4 +11,5 @@ Examen Modulo 4 - BIGDATA - CONJUNTO DE DATOS ONLINE - STREAMLIT - DASHBOARD POW
 6. `NobelCO.csv` -> archivo csv utilizado para el entrenamiento del modelo para predicir la categoria del premio.
 7. `Examen.pbix` -> dashboard de los premios nobel.
 8. `requierments.txt` -> librerias requeridas para streamlit.
-9.  `nobelstreamlit.py` -> archivo .py para streamlit.
+9. `nobelstreamlit.py` -> archivo .py para streamlit.
+10. `ExamenJMCA.ipynb` -> notebook examen.
